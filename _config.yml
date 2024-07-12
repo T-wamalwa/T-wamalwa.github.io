@@ -40,7 +40,7 @@ author: Thomas L.
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2024-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2024-{current year} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
 I am currently pursuing my final year Bachelor's Degree of Science in Information Technology I have built a solid foundation in software development, particularly in areas such as Java, SQL,python,mongodb,postgresssql,react,javascript,html,css,nosql,C++,C#, Git, and GitHub.
